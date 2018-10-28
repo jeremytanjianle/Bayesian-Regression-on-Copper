@@ -6,4 +6,4 @@ https://devavrat.mit.edu/wp-content/uploads/2017/11/Bayesian-regression-and-Bitc
 
 Notebook in the repository goes through the algorithm and some of the maths.
 
-![img](https://github.com/vinitrinh/Bayesian-Regression-on-Copper/blob/master/download.png}
+![img](https://github.com/vinitrinh/Bayesian-Regression-on-Copper/blob/master/download.png)
